@@ -1,15 +1,11 @@
+<img align="right" width="400" height="290" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-5.gif">
+
 # Bem vindo!
 ## Eu sou Pedro! deixe-me fazer uma breve apresentação sobre mim :D
 
 Desenvolvedor Full-Stack com foco em React e Node
 
 Amante de tecnologia e games
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-walphablondy">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=allpha23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allpha23&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alpha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +14,14 @@ Amante de tecnologia e games
   <img align="center" alt="Alpha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alpha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alpha-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+
+##
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-walphablondy">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=allpha23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allpha23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##

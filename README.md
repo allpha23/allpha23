@@ -1,4 +1,9 @@
-### Oi eu sou o Pedro Soares, desenvolvedor full stack!
+# Bem vindo!
+## Eu sou Pedro! deixe-me fazer uma breve apresentação sobre mim :D
+
+Full-Stack com foca em React e Node
+
+Amante de tecnologia e games
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-walphablondy">
@@ -23,3 +28,6 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+- Obrigado por visitar. 
+- Aproveite!! o/

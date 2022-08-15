@@ -1,7 +1,7 @@
 # Bem vindo!
 ## Eu sou Pedro! deixe-me fazer uma breve apresentação sobre mim :D
 
-Full-Stack com foca em React e Node
+Desenvolvedor Full-Stack com foco em React e Node
 
 Amante de tecnologia e games
 

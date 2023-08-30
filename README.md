@@ -1,8 +1,7 @@
-<img align="right" width="400" height="290" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-5.gif">
+<img align="right" width="45%" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-5.gif">
 
 # Bem vindo!
 ## Eu sou Pedro
-
 Desenvolvedor Full-Stack.<br>
 Atualmente estou aprimorando minhas habilidades com ReactJS, com o objetivo de me especializar em Fron-end.
 
